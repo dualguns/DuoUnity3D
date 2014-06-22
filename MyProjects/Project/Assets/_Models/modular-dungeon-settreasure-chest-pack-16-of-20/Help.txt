@@ -1,0 +1,36 @@
+Created by: Jeremiah Bigley
+jeremiah_bigley@yahoo.com
+jeremiahbigley.com
+jeremiahbigley.blogspot.com
+
+
+
+Feel free to contact me if you have questions beyond this help file.
+
+
+
+
+1. In the "Assets" folder you will find an .obj file that will export into just about any 3d package. You will also find a max file that was created in 3ds Max 2010 that has the model in it as well.
+
+2. In the "Presentation" Folder are the pictures from 3d ocean when viewing the pack.
+
+3.My naming convention for texture maps that is consistant throughout each pack you buy is as follows...
+
+ObjectName_MapType
+
+Map Type abbreviation break down
+
+df = Diffuse Map
+nm = Normal Map
+sp = Specular Map
+gl = Emissive Map or "Glow" Map
+
+The opacity map (if there is one) is stored in the alpha channel of the Diffuse as it is a 32 bit file.
+
+
+
+
+
+Now off you go! Create a massive dungeon level! Or... Go buy all the other parts so that you can. ;) To see what you can create with all 20 packs I put the final render in the Presentation Folder.
+
+If you do something cool. Like make it playable in an engine, or improve upon it... I would love to see. ;)

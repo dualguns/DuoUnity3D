@@ -1,0 +1,32 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration 
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+newmtl wood1
+	 Ka 0 0 0
+	 Kd 0.784314 0.784314 0.784314
+	 Ks 0.392157 0.392157 0.392157
+	 illum 2
+	 Ns 22.6274
+map_Kd barrel.jpg
+map_bump barrel_b.jpg
+bump barrel_b.jpg
+map_kS barrel_s.jpg
+newmtl metal
+	 Ka 0 0 0
+	 Kd 0.219608 0.2 0.196078
+	 Ks 0.164706 0.15 0.147059
+	 illum 2
+	 Ns 11.3137
+newmtl wood2
+	 Ka 0 0 0
+	 Kd 0.784314 0.784314 0.784314
+	 Ks 0.392157 0.392157 0.392157
+	 illum 2
+	 Ns 22.6274
+map_Kd barreltop.jpg
+map_bump barreltop.jpg
+bump barreltop.jpg
+map_kS barreltop_s.jpg

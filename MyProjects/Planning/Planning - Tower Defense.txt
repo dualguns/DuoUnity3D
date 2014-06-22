@@ -1,0 +1,24 @@
+Things to Do for Defense Game
+- Maze Map for Tower Defense Game
+- All Sides Open Map for Hero Defense Game
+- Atleast 10 Massive Boss 
+- 90 Different minions created via spore. 
+- A Tower Upgrade System 
+- Menus for buying towers and skills
+- Minion Properties (Hp, speed, scale, flying, )
+- Tower Properties (lvl, price, attack rate, turning speed, attack power, special power, special power effectivity, 10 upgrades, angle of attack, range, reach)
+- Special Power (poison, slow, freeze, confuse, burn, disease, area effect)
+- Audio for different minions and tower effects
+- grid the map and tower placement
+- towers only area and minions only area
+- set up interest system
+- add a miss system using ray cast
+- minion return system
+- minion spawn system
+- hud for selecting towers, player health, wave info, interest counter, 
+- something special about boss
+- award / recognition system
+- menu / start game scene
+- end game scene
+- camera limits
+- info text system
